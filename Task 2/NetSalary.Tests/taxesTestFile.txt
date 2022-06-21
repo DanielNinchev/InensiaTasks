@@ -1,0 +1,13 @@
+[
+    {
+      "Name": "income tax",
+      "TaxPercentage": "0.10",
+      "MinTaxedAmount": "1000",
+    },
+    {
+      "Name": "social contribution tax",
+      "TaxPercentage": "0.15",
+      "MinTaxedAmount": "1000",
+      "MaxTaxedAmount": "3000",
+    },
+]

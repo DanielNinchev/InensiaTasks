@@ -1,0 +1,16 @@
+[
+    {
+      "dateOfBirth": "April 26, 1996",
+      "Name": "Katherine",
+      "Surname": "Langford",
+      "Sex": "Female",
+      "Nationality": "australian"
+    },
+    {
+      "dateOfBirth": "December 31, 1996",
+      "Name": "Miles",
+      "Surname": "Heizer",
+      "Sex": "Male",
+      "Nationality": "american"
+    }
+]
